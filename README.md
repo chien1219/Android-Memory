@@ -1,5 +1,5 @@
 # Android-Memory
-**Richard Chien**
+**Richard Chien**  
 Details in my Android memory usage research  
 I will introduce from simple to hard, from some usage to details  
 A know how from first month of my interns in 2017.  
@@ -151,5 +151,5 @@ the value gets different.
   
 Hence as a conclusion, there two API are used in several auto-run memory checker  
 Determining which to use totally depends on demand.  
-some argue that **Activity manager** is developed better and has a better performance
+some argue that **Activity manager** is developed better and has a better performance  
 but  **Debug** seems to hit the bull's-eye.
