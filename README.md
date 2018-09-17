@@ -3,6 +3,7 @@
 Details in my Android memory usage research  
 I will introduce from simple to hard, from some usage to details  
 A know how from first month of my interns in 2017.  
+For Powerpoint access: [Link](https://goo.gl/5Ce87p)
 
 ## Several adb commands to log memory info
 <pre>
@@ -134,7 +135,7 @@ private static final class DebugMemoryGetter implements MemoryGetter {
    
 ## Performance Comparison
   
-** Speed Comparison**
+**Speed Comparison**
   
 The following image shows the time taken to finish two memory getter above.  
 we can see that **ActivityManager** is slightly slower than **Debug**
