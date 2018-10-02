@@ -139,7 +139,7 @@ private static final class DebugMemoryGetter implements MemoryGetter {
   
 The following image shows the time taken to finish two memory getter above.  
 we can see that **ActivityManager** is slightly slower than **Debug**
-![com_time](https://i.imgur.com/t89kRgH.png)  
+![com_time](https://i.imgur.com/ahxp8SA.jpg)
   
   
 Next, we compare the output memory usage value differ.  
