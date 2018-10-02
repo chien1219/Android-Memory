@@ -155,4 +155,4 @@ Determining which to use totally depends on demand.
 some argue that **Activity manager** is developed better and has a better performance  
 but  **Debug** seems to hit the bull's-eye.  
   
-** Feel free to contact me if you need Memory auto-dumping source code. (Java)**
+**Feel free to contact me if you need Memory auto-dumping source code. (Java)**
